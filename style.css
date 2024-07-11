@@ -67,7 +67,7 @@ nav ul li{
     width: 10px;
     height: 60px;
     margin: auto;
-    /* display: flex; */
+    display: flex;
 }  
 
 
@@ -75,5 +75,28 @@ nav ul li{
     width: 200px;
     height: 100px;
     margin-top: 200px;
+    text-align: center;
+}
+
+
+
+.section-title {
+    margin-top: 500px; 
+    text-align: center; 
+}
+
+.section-description{
+    text-align: center;
+}
+
+.skills-container{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px rgb(0, 0, 06);
     text-align: center;
 }
