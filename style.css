@@ -58,7 +58,7 @@ nav ul li{
 
 }
  .second-section-container p{
-    /* text-align: center; */
+    text-align: center;
     width: 1900px;
     height: 100px; 
 }
@@ -67,5 +67,13 @@ nav ul li{
     width: 10px;
     height: 60px;
     margin: auto;
-    display: flex;
+    /* display: flex; */
 }  
+
+
+.video{
+    width: 200px;
+    height: 100px;
+    margin-top: 200px;
+    text-align: center;
+}
